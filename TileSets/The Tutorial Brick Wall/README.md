@@ -2,7 +2,15 @@
 
 There are two files in here:
 
+## Hey.png
+
+![hey](hey.png)
+
 [hey.png](./hey.png) contains some error that I'v left in there for educational purposes, you can play and thinker with the file in the Godot TileMap editor to see some of the mistake that the tilemap has.
+
+## tileset.png
+
+![tileset](./tileset.png)
 
 [tileset.png](./tileset.png) is a very old version of the tileset that I use as a reference when working on complex tilesets, it is very easy to read.
 
